@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="53025897-6227-4204-8a4c-c1ba5cc99538" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1lI30EHPplUFqLMPZacfvNAsFPg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2019.3.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\算法\base" />
+      <recent name="C:\Users\Administrator\Desktop\算法\队列" />
+      <recent name="C:\Users\Administrator\Desktop\算法\链表" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Node.js.arrayBase.js">
+    <configuration name="面向对象.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/2-base/面向对象.js" working-dir="$PROJECT_DIR$/2-base">
+      <method v="2" />
+    </configuration>
+    <configuration name="集合.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/5-集合/集合.js" working-dir="$PROJECT_DIR$/5-集合">
+      <method v="2" />
+    </configuration>
+    <configuration name="双端队列.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/双端队列.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="队列.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/队列.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="栈.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/栈.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="递归.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/7-递归/递归.js" working-dir="$PROJECT_DIR$/7-递归">
+      <method v="2" />
+    </configuration>
+    <configuration name="图.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/12-图/图.js" working-dir="$PROJECT_DIR$/12-图">
+      <method v="2" />
+    </configuration>
+    <configuration name="队列.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/队列.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="替换后最长重复字符串.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/leetCode/2-1/替换后最长重复字符串.js" working-dir="$PROJECT_DIR$/leetCode/2-1">
+      <method v="2" />
+    </configuration>
+    <configuration name="栈.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/栈.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="字典和散列表.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/6-字典和散列表/字典和散列表.js" working-dir="$PROJECT_DIR$/6-字典和散列表">
+      <method v="2" />
+    </configuration>
+    <configuration name="递归.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/7-递归/递归.js" working-dir="$PROJECT_DIR$/7-递归">
+      <method v="2" />
+    </configuration>
+    <configuration name="字典和散列表.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/6-字典和散列表/字典和散列表.js" working-dir="$PROJECT_DIR$/6-字典和散列表">
+      <method v="2" />
+    </configuration>
+    <configuration name="链表.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/4-链表/链表.js" working-dir="$PROJECT_DIR$/4-链表">
+      <method v="2" />
+    </configuration>
+    <configuration name="集合.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/5-集合/集合.js" working-dir="$PROJECT_DIR$/5-集合">
+      <method v="2" />
+    </configuration>
+    <configuration name="糖果棒交换.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/leetCode/2-1/糖果棒交换.js" working-dir="$PROJECT_DIR$/leetCode/2-1">
+      <method v="2" />
+    </configuration>
+    <configuration name="面向对象.ts" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/2-base/面向对象.ts" working-dir="$PROJECT_DIR$/2-base">
+      <method v="2" />
+    </configuration>
+    <configuration name="arrayBase.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/1-Array/arrayBase.js" working-dir="$PROJECT_DIR$/1-Array">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.arrayBase.js" />
+        <item itemvalue="Node.js.面向对象.ts" />
+        <item itemvalue="Node.js.面向对象.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="53025897-6227-4204-8a4c-c1ba5cc99538" name="Default Changelist" comment="" />
+      <created>1607270553036</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607270553036</updated>
+      <workItem from="1607270555724" duration="2185000" />
+      <workItem from="1607354965811" duration="3029000" />
+      <workItem from="1607441891930" duration="2934000" />
+      <workItem from="1607530385260" duration="1623000" />
+      <workItem from="1607614982301" duration="3346000" />
+      <workItem from="1607960938683" duration="2455000" />
+      <workItem from="1608048855272" duration="1761000" />
+      <workItem from="1608134912391" duration="2059000" />
+      <workItem from="1608480298948" duration="1218000" />
+      <workItem from="1608566268074" duration="2281000" />
+      <workItem from="1608739543812" duration="1474000" />
+      <workItem from="1609171080973" duration="1531000" />
+      <workItem from="1609950917598" duration="109000" />
+      <workItem from="1611157294488" duration="3107000" />
+      <workItem from="1611506781869" duration="2986000" />
+      <workItem from="1612194602280" duration="2096000" />
+      <workItem from="1612275384975" duration="1922000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="556" y="18" key="CommitChangelistDialog2" timestamp="1612277802748">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="556" y="18" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1612277802748" />
+    <state width="1897" height="279" key="GridCell.Tab.0.bottom" timestamp="1612276373325">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1897" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1612276373325" />
+    <state width="1897" height="279" key="GridCell.Tab.0.center" timestamp="1612276373325">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1897" height="279" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1612276373325" />
+    <state width="1897" height="279" key="GridCell.Tab.0.left" timestamp="1612276373325">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1897" height="279" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1612276373325" />
+    <state width="1897" height="279" key="GridCell.Tab.0.right" timestamp="1612276373325">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1897" height="279" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1612276373325" />
+    <state width="1897" height="347" key="GridCell.Tab.1.bottom" timestamp="1608481545367">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1897" height="347" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1608481545367" />
+    <state width="1897" height="347" key="GridCell.Tab.1.center" timestamp="1608481545367">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1897" height="347" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1608481545367" />
+    <state width="1897" height="347" key="GridCell.Tab.1.left" timestamp="1608481545367">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1897" height="347" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1608481545367" />
+    <state width="1897" height="347" key="GridCell.Tab.1.right" timestamp="1608481545367">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1897" height="347" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1608481545367" />
+    <state width="1897" height="347" key="GridCell.Tab.2.bottom" timestamp="1608481545367">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1897" height="347" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1608481545367" />
+    <state width="1897" height="347" key="GridCell.Tab.2.center" timestamp="1608481545367">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1897" height="347" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1608481545367" />
+    <state width="1897" height="347" key="GridCell.Tab.2.left" timestamp="1608481545367">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1897" height="347" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1608481545367" />
+    <state width="1897" height="347" key="GridCell.Tab.2.right" timestamp="1608481545367">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1897" height="347" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1608481545367" />
+    <state width="1897" height="347" key="GridCell.Tab.3.bottom" timestamp="1608481545367">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1897" height="347" key="GridCell.Tab.3.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1608481545367" />
+    <state width="1897" height="347" key="GridCell.Tab.3.center" timestamp="1608481545367">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1897" height="347" key="GridCell.Tab.3.center/0.0.1920.1040@0.0.1920.1040" timestamp="1608481545367" />
+    <state width="1897" height="347" key="GridCell.Tab.3.left" timestamp="1608481545367">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1897" height="347" key="GridCell.Tab.3.left/0.0.1920.1040@0.0.1920.1040" timestamp="1608481545367" />
+    <state width="1897" height="347" key="GridCell.Tab.3.right" timestamp="1608481545367">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1897" height="347" key="GridCell.Tab.3.right/0.0.1920.1040@0.0.1920.1040" timestamp="1608481545367" />
+    <state x="784" y="166" key="SettingsEditor" timestamp="1611160296368">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="784" y="166" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1611160296368" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1607531474668">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1607531474668" />
+  </component>
+</project>
