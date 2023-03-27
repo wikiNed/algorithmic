@@ -84,8 +84,8 @@ function baseConvert(decNumber, base) {
     }
     return baseStr;
 }
-// console.log(baseConvert(13545, 10));
-// console.log(baseConvert(13545, 25));
+console.log(baseConvert(13545, 10));
+console.log(baseConvert(13545, 25));
 
 
 

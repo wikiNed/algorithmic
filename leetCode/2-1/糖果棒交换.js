@@ -52,7 +52,7 @@ var fairCandySwap = function(A, B) {
 let arr1 = [1,1];
 let arr2 = [2,2];
 let result=fairCandySwap(arr1, arr2);
-console.log(result);
+// console.log(result);
 
 //改进方法
 var fairCandySwap2 = function (A, B) {
@@ -71,9 +71,24 @@ var fairCandySwap2 = function (A, B) {
     }
 };
 
+/**
+ * 给定和，求两数在数组中位置
+ * @param arr 传入数组
+ * @param target 目标值
+ */
+var findPos = function (arr, target){
+    const map = new Map();
+    for (let i = 0; i < arr.length; i++) {
+        if(map.has(target - arr[i])){
+            return [map.get(target- arr[i]), i]
+        }else{
+            map.set(arr[i], i)
+        }
+    }
+    return []
+}
 
-
-
+console.log(findPos([2,7,11,15], 30))
 
 
 
