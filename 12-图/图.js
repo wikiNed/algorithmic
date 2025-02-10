@@ -76,6 +76,7 @@ const fw = graph =>{
     return dist
 };
 console.log(fw(graph));
+console.log(1);
 
 
 
